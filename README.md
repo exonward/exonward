@@ -1,16 +1,19 @@
-## Hi there 👋
+# 你好，我是 qingming 👋
 
-<!--
-**exonward/exonward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+一个非专业爱好者，正在慢慢学习和探索新东西。
 
-Here are some ideas to get you started:
+## 我感兴趣的方向
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 **学习**：自学心得和读书笔记
+- 🛠️ **工具**：好用的软件和效率工具
+- 🌐 **网络**：网络技术入门知识
+- 🤖 **人工智能**：AI 工具的使用和尝试
+
+## 关于我
+
+- 我不是技术专业出身，GitHub 对我来说是一个记录学习、收藏好东西的地方
+- 我的学习笔记仓库：https://github.com/exonward/-
+
+---
+
+*持续学习，慢慢积累。欢迎交流。*
